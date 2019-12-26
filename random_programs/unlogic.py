@@ -1,0 +1,8 @@
+color = input("Chose a color: ")
+name = input("pick a name (plz d'ont chose yours...): ")
+nb = input ("pick a num: ")
+dot = (".")
+print ("")
+print ("roses are " + color + dot)
+print ("My freind's name is " + name + dot)
+print ("I have " + nb + " dogs" + dot)

@@ -1,0 +1,10 @@
+peple = ["gilbert", "david", "richard"]
+peple.insert(0, "justin")
+peple.insert(2, "rayan")
+peple.append("joseph")
+print("welcome to my parlor, " + peple[0])
+print("welcome to my parlor, " + peple[1])
+print("welcome to my parlor, " + peple[2])
+print("welcome to my parlor, " + peple[3])
+print("welcome to my parlor, " + peple[4])
+print("welcome to my parlor, " + peple[5])
